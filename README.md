@@ -19,3 +19,21 @@ application_architecture_in_Python/
 ├── lab_04.ipynb
 ├── requirements.txt
 └── README.md
+```
+## Technologies
+
+- Python 3.12
+- Jupyter Notebook
+- NumPy / pandas / matplotlib
+
+## How to run
+
+1. Clone the repository
+2. Create a virtual environment
+3. Install dependencies
+4. Run Jupyter Notebook
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+
