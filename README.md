@@ -36,4 +36,10 @@ application_architecture_in_Python/
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+```
+## Completed labs
 
+- [x] Lab 1 
+- [x] Lab 2 
+- [ ] Lab 3 
+- [ ] Lab 4 
